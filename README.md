@@ -1,9 +1,5 @@
 # Axe-Playwright
 
-![Test Status](https://github.com/abhinaba-ghosh/axe-playwright/actions/workflows/tests.yml/badge.svg?branch=master)
-![Build Status](https://github.com/abhinaba-ghosh/axe-playwright/actions/workflows/npm-release.yml/badge.svg?branch=master)
-[![NPM release](https://img.shields.io/npm/v/axe-playwright.svg 'NPM release')](https://www.npmjs.com/package/axe-playwright)
-[![NPM Downloads](https://img.shields.io/npm/dt/axe-playwright.svg?style=flat-square)](https://www.npmjs.com/package/axe-playwright)
 
 Axe-core® is a powerful accessibility testing engine provided by Deque Systems that powers this package. Axe-Playwright provides simple commands to integrate the axe-core® library with your [Playwright](https://www.npmjs.com/package/playwright) tests. This integration functions seamlessly across all Playwright browsers: Chromium, Firefox, and WebKit.
 
@@ -359,4 +355,4 @@ await checkA11y(page, '#storybook-root', {
 
 ## Before you Go
 
-If it works for you , leave a [Star](https://github.com/abhinaba-ghosh/axe-playwright)! :star:
+If it works for you , leave a [Star](https://github.com/devnucleus86/axe-playwright)! :star:
